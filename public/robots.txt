@@ -1,0 +1,5 @@
+# Nexx Kabianga Web Prototype — Kabianga SEO Demo Environment
+User-agent: *
+Allow: /
+
+Sitemap: https://demo.kabianga-seo.example/sitemap.xml
