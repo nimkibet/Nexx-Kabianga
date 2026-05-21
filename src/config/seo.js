@@ -3,7 +3,7 @@
  * Update SITE_URL when deploying to your production domain.
  */
 export const SITE_URL =
-  import.meta.env.VITE_SITE_URL || 'https://demo.kabianga-seo.example';
+  import.meta.env.VITE_SITE_URL || 'https://nexx-kabianga.vercel.app';
 
 export const SITE_NAME = 'Nexx Kabianga Web Prototype';
 

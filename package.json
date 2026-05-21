@@ -6,6 +6,7 @@
   "description": "Nexx Kabianga Web Prototype — high-performance university landing page SEO demo",
   "scripts": {
     "dev": "vite",
+    "prebuild": "node scripts/generate-seo-files.mjs",
     "build": "vite build",
     "preview": "vite preview"
   },

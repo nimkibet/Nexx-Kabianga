@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://demo.kabianga-seo.example/sitemap.xml
+Sitemap: https://nexx-kabianga.vercel.app/sitemap.xml
